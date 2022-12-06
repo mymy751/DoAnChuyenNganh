@@ -1,0 +1,7 @@
+[1123/154013.128:ERROR:icu_util.cc(230)] Couldn't mmap icu data file
+[1127/222339.205:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[1127/222339.218:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[1127/222339.260:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[1127/222341.436:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[1127/222341.577:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[1127/222341.586:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
