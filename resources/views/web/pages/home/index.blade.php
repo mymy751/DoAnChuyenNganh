@@ -15,7 +15,7 @@
                                 @foreach ($category as $item)
                                     <li class="mb-2 "><a
                                             href="danh-muc-san-pham/1?id={{ $item->id_category }}">{{ $item->nameCategory }}</a>
-                                            {{-- href="{{ route ('danh-muc-san-pham/1?id=', ['id' => $product->id]) }}"</a> --}}
+                                            {{-- href="{{ route ('danh-muc-san-pham/1?id='[$item->id_product]) }}"></a> --}}
                                     </li>
                                 @endforeach
                             </ul>
